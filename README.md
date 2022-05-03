@@ -1,1 +1,1 @@
-# Proyecto-Integrador-Algoritmos-1
+En el proyecto se busca desarrollar una aplicación que permita procesar los datos de un sensor de un de un sistema global de navegación por satélites (GNSS). El mismo fue desarrollado íntegramente en C
