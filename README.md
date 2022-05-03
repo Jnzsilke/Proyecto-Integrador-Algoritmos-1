@@ -1,5 +1,5 @@
 En el proyecto se busca desarrollar una aplicación que permita procesar los datos de un sensor de un de un sistema global de navegación por satélites (GNSS). Dicho procesamiento genera archivos en formato GPX para poder ser visualizado luego en GPS o por ejemplo google maps. Un ejemplo de dicha salida es la siguiente :
-
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 
 <gpx version="1.1" creator="95.11 TP1 - Tracker" xmlns="http://www.topografix.com/GPX/1/1">
@@ -47,7 +47,7 @@ En el proyecto se busca desarrollar una aplicación que permita procesar los dat
 	  </trkpt>
 	</trkseg>
   </trk>
-</gpx>
+</gpx>.```
 
 Y este archivo se puede visualizar en un mapa de la siguiente forma :
 ![alt text](https://user-images.githubusercontent.com/44123170/166584069-e083e7aa-8d30-4ff1-81ee-bd7d07d96464.png)
