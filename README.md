@@ -48,7 +48,7 @@ En el proyecto se busca desarrollar una aplicación que permita procesar los dat
 	</trkseg>
   </trk>
 </gpx>
-
+.```
 Y este archivo se puede visualizar en un mapa de la siguiente forma :
 ![plot](https://user-images.githubusercontent.com/44123170/166584069-e083e7aa-8d30-4ff1-81ee-bd7d07d96464.png)
 
