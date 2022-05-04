@@ -1,4 +1,4 @@
-En el proyecto se busca desarrollar una aplicación que permita procesar los datos de un sensor de un de un sistema global de navegación por satélites (GNSS). Dicho procesamiento genera archivos en formato GPX para poder ser visualizado luego en GPS o por ejemplo google maps. Un ejemplo de dicha salida es la siguiente :
+En el proyecto se busca desarrollar una aplicación que permita procesar los datos de un sensor incorporado en un sistema global de navegación por satélites (GNSS). Dicho procesamiento genera archivos en formato GPX para poder ser visualizado luego en GPS o por ejemplo google maps. Un ejemplo de dicha salida es la siguiente :
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 
